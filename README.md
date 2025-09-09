@@ -209,18 +209,6 @@ Configure environment variables in the `environments/` directory.
 - Consistent styling
 - Responsive design (fixed values)
 
-## 📄 License
-
-This project is proprietary and confidential.
-
-## 👥 Team
-
-Developed by the mobile development team.
-
-## 📞 Support
-
-For technical support or questions, please contact the development team.
-
 ---
 
 **Note**: This is a development/test application. Some features may be in development or testing phases.
