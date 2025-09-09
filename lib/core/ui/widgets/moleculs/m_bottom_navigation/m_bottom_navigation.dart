@@ -86,7 +86,7 @@ class MBottomNavigation extends StatelessWidget {
       onTap: () => onTap(index),
       child: Container(
         padding: const EdgeInsets.only(top: 17),
-        width: 79,
+        width: 71,
         child: Column(
           children: [
             Image.asset(
